@@ -1,0 +1,17 @@
+/* Home Page Styles */
+
+body.home{
+    background-color: var(--home-bg-color);
+}
+
+/* Second Page Styles */
+
+body.second{
+    background-color: var(--second-page-bg-color);
+}
+
+/* Third Page Styles */
+
+body.third{
+    background-color: var(--third-page-bg-color);
+}

@@ -1,11 +1,9 @@
 {
   "plugins": {
-    "postcss-simple-vars": {},
-    "postcss-import": {},
+  	"postcss-import": {},
     "postcss-nested": {},
     "postcss-preset-env": {},
-    "autoprefixer": {
-      "grid": true
-    }
+    "autoprefixer": {},
+    "postcss-simple-vars": {}
   }
 }

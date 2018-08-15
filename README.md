@@ -1,2 +1,6 @@
-# parcel-multi-page-postcss-starter
-Parcel multi page starter with postcss
+# Parcel starter with multi page support and postcss
+commands
+- yarn install
+- yarn dev
+- yarn build
+
